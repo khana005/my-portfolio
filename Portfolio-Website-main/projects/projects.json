@@ -1,0 +1,62 @@
+﻿[
+  {
+    "name": "Indian-culture-main",
+    "desc": "Dynamic Indian culture web portal — backend logic, Python data processing and React frontend. Improved data accuracy and retrieval performance.",
+    "image": "oldsites.png",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/khana005/Indian-culture-main"
+    }
+  },
+  {
+    "name": "Doc-wise-health",
+    "desc": "Healthcare analytics dashboard built with Tableau and MS SQL Server to optimize scheduling and patient satisfaction.",
+    "image": "bootstrapportfolio.png",
+    "category": "data",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Sports-Management-Website",
+    "desc": "Sports management website for player registration, scheduling and team management using PHP, JavaScript and MySQL.",
+    "image": "burgerweb.PNG",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "NotyStack Android",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "notystackandroid.png",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "Instagram MERN",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "instagrammern.png",
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website showcasing projects and skills.",
+    "image": "portfolio1.PNG",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
