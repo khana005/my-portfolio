@@ -52,7 +52,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website showcasing projects and skills.",
-    "image": "portfolio1.PNG",
+    "image": "portfolio_screenshot.png",
     "category": "basicweb",
     "links": {
       "view": "#",
